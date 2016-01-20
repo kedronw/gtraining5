@@ -9,3 +9,5 @@ getting the remote and local out of sync -- what will we do?
 what happens when local and remote are not together?
 
 pretty nifty for a remote repository -- I shoulda learned this stuff a while ago...
+
+relearning what I did at the end of December
